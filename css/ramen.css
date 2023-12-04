@@ -2,8 +2,27 @@
     background-color: aqua;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
 }
 
 h2, h3, h4 {
     background-color: rgb(99, 207, 99);
+    padding: 6px;
+    margin-top: 50px;
+}
+ul {
+    background-color: #11ffff0a;
+    padding: 5px 50px;
+}
+
+.links {
+    background-color: rgba(0, 255, 255, 0.707);
+}
+
+a {
+    background-color: rgb(1, 86, 79);
+    display: inline-block;
+    color: white;
+    padding: 8px;
+    
 }
